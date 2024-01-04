@@ -1,5 +1,7 @@
 # Insights_Supply_Chain_Issue - Power BI
-- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Resume Project challenge #8: Provide Insights to the Product Strategy Team in the Banking Domain
+- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Challenge #2: Generate Insights to Solve a Supply Chain Issue in the FMCG domain 
+
+Problem Statement
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard]()
