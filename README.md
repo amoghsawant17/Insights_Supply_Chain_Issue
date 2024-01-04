@@ -4,7 +4,7 @@
 Problem Statement
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
-- Link to [Live Dashboard]()
+- Link to [Live Dashboard](https://www.novypro.com/project/insights-for-supply-chain-issue)
 
 ## Problem statement
 
