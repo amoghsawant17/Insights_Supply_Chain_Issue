@@ -79,8 +79,6 @@ You are a data analyst who has been provided with sample data to work on the fol
 -  The On-Time Delivery % is farther from its target for Lotus Mart, Acclaimed Stores, and Coolblue which results in a lower OTIF Delivery %.
 - The waiting period for delivery is the highest for Lotus Mart, Acclaimed Stores, and Coolblue which is 3+ days of delivery and this might result in higher customer dissatisfaction.
 - The Dairy category is ranked highest in terms of order quantity of 10.6 Million units followed by the Food and Beverages category.
-- In terms of order quantity
+- In terms of order quantity, Milk is ranked the highest among all products followed by Curd, Butter, Biscuits, Tea, and Ghee.
+
 ## Potential Decisions
-
-
-## Credit Card Feature Recommendations
