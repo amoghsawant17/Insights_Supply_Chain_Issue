@@ -60,7 +60,24 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/0766ad29adb2c5e898f3f3f3))
 
 ## Some Key Metrics
-- 
+- Orders are nothing but unique requests placed by a customer on a given date.
+- Within an order, a customer could request multiple items. Each of these items requested within the order is called an order line.
+- Line Fill Rate is an important metric for the supply planning team to understand how many lines they shipped out of the total lines ordered. This metric does not consider the delivery time of the order.
+  - Line Fill Rate for an order = order lines fulfilled / lines ordered
+- Volume fill rate or case fill rate is a similar metric useful for the supply planning team to understand the total quantity they can ship for a customer per order or for a given period.
+  - Volume Fill rate for an order = total quantity shipped / total quantity ordered
+- Measuring On-Time delivery %
+  - Unlike Line Fill Rate, this measure is measured at the order level. It determines if an order is delivered as per the agreed time with the customer.
+  - This metric is important for the warehouse & distribution team.
+  - An order is On Time only when all the line items inside the order are delivered on time.
+- Measuring In Full Delivery %
+  - Unlike Line Fill Rate, this measure is measured at the order level. It determines if an order is delivered in full as per the requested quantity by the customer.
+  - This metric is important for the supply planning team.
+  - An order is In Full only when all the line items inside the order are delivered In Full.
+- Measuring On Time In Full (OTIF) %
+  - Unlike Line Fill Rate, this measure is measured at the order level. It determines if an order is delivered BOTH in full and On Time as per the customer's order request.
+  - This metric is important for all the sub-functions in the supply chain team.
+  - An order is OTIF only when all the line items inside the order are delivered In Full and ON Time. This is a hard metric that measures the reliability of an order from a customer's point of view.
 
 ## Some Important insights from the Dashboard
 - In Full Delivery % is 54.2 % in Ahmedabad city which is the highest followed by Surat city.
