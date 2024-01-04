@@ -56,14 +56,30 @@ You are a data analyst who has been provided with sample data to work on the fol
 </p>
 
 ## Things that I learned from this Project
-- I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
+- I Learned, how to use bookmarks and selection for different purposes. (Page navigation buttons in the dashboard were achieved using bookmarks and selection same as a website page navigation.
 - Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/0766ad29adb2c5e898f3f3f3))
 
 ## Some Key Metrics
+- 
 
 ## Some Important insights from the Dashboard
-
-
+- In Full Delivery % is 54.2 % in Ahmedabad city which is the highest followed by Surat city.
+- On-Time Delivery % is 61 % in Surat city which is the highest followed by Ahmedabad city.
+- OTIF Delivery % is 30 % in Surat city which is the highest followed by Ahmedabad city.
+- Volume Fill Rate is around 96 % in all cities.
+- The line Fill Rate is 67.6 % in Ahmedabad city which is the highest followed by Surat city.
+- The highest number of orders given by customers are Lotus Mart with 3550 orders, Acclaimed Stores with 3510 orders, and Coolblue with 2437 orders.
+- Overall the In Full Delivery % is 52.8 % which is short of its target by -31 %.
+- Overall the On-Time Delivery % is 59 % which is short of its target by -31.5 %.
+- Overall the OTIF Delivery % is 29 % which is short of its target by -56 %.
+- The number of orders received is around 11,000 from Ahmedabad city and Vadodara city each.
+- The Line Fill Rate is around 96 % and the Volume Fill Rate is around 66 % across all categories.
+- The delay in delivery is highest among customers such as Lotus Mart, Acclaimed Stores, and Coolblue.
+- The In Full Delivery % is farther from its target for Vijay Stores, Sorefoz Mart, Info Stores, Elite Mart, and Coolblue which results in a lower OTIF Delivery %.
+-  The On-Time Delivery % is farther from its target for Lotus Mart, Acclaimed Stores, and Coolblue which results in a lower OTIF Delivery %.
+- The waiting period for delivery is the highest for Lotus Mart, Acclaimed Stores, and Coolblue which is 3+ days of delivery and this might result in higher customer dissatisfaction.
+- The Dairy category is ranked highest in terms of order quantity of 10.6 Million units followed by the Food and Beverages category.
+- In terms of order quantity
 ## Potential Decisions
 
 
