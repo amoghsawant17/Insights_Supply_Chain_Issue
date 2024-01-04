@@ -28,8 +28,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Home View
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/home.png
-' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/home.png' width="600">
 </p>
 
 ## Overview
