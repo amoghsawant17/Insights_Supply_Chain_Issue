@@ -101,3 +101,39 @@ You are a data analyst who has been provided with sample data to work on the fol
 - In terms of order quantity, Milk is ranked the highest among all products followed by Curd, Butter, Biscuits, Tea, and Ghee.
 
 ## Potential Decisions
+1. **Prioritize Customer Relationships:**
+   - Focus on improving service levels for key customers like Lotus Mart, Acclaimed Stores, and Coolblue, as they contribute significantly to the order volume.
+   - Implement a customer-centric approach to address their specific concerns and reduce delivery delays.
+
+2. **Optimize Delivery Processes:**
+   - Streamline the delivery processes to ensure In Full Delivery % and On-Time Delivery % meet or exceed targets for all cities.
+   - Analyze and address the reasons behind delays, especially for high-volume customers, to minimize waiting periods and enhance customer satisfaction.
+
+3. **Enhance Product Availability:**
+   - Work closely with suppliers to maintain optimal stock levels for essential products to meet customer demands consistently.
+   - Implement inventory management strategies to prevent stockouts and ensure full product delivery.
+
+4. **Category-specific Strategies:**
+   - Given the high order quantity in the Dairy category, allocate additional resources to manage the supply chain effectively for these products.
+   - Monitor and improve the delivery performance for specific categories such as Dairy, Food and Beverages, and prioritize them based on customer demand.
+
+5. **Set Realistic Targets:**
+   - Reassess and adjust the target service levels for each customer to more realistic values based on historical performance and customer expectations.
+   - Ensure that the revised targets are challenging yet achievable to improve overall service metrics.
+
+6. **Investigate Line Fill Rate Disparities:**
+   - Investigate the reasons behind disparities in Line Fill Rates among cities and identify best practices from Ahmedabad and Surat to improve performance in other locations.
+
+7. **Capacity Planning:**
+   - Assess the current capacity of the supply chain and evaluate if additional resources are required to handle the expected order volume increase when expanding to new cities.
+
+8. **Technology Integration:**
+   - Explore the integration of technology solutions, such as route optimization software and real-time tracking, to enhance delivery efficiency and accuracy.
+
+9. **Customer Communication:**
+   - Implement proactive communication channels to keep customers informed about their order status, potential delays, and expected delivery times to manage expectations effectively.
+
+10. **Continuous Monitoring and Improvement:**
+    - Establish a continuous monitoring system for key performance indicators and regularly review and adjust strategies to address changing market dynamics and customer expectations.
+
+Implementing these decisions can contribute to resolving the supply chain issues, improving customer satisfaction, and ensuring a smoother expansion into new cities for AtliQ Mart.
