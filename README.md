@@ -22,37 +22,38 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/data_model.png' height="400">
+</p>
+
+## Home View
+
+<p align="center">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/home.png
+' width="600">
 </p>
 
 ## Overview
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/overview.png' width="600">
 </p>
 
-## Monthly Analysis View
+## Customer Insights View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/customer_insights.png' width="600">
 </p>
 
-## Support View
+## Order Insights View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/order_insights.png' width="600">
 </p>
 
 ## Feedback View
 
 <p align="center">
-    <img src='' width="600">
-</p>
-
-## Attribution View
-
-<p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Supply_Chain_Issue/blob/main/views_snap/feedback.png' width="600">
 </p>
 
 ## Things that I learned from this Project
