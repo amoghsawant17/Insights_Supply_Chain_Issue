@@ -1,14 +1,10 @@
 # Insights_Supply_Chain_Issue - Power BI
 - This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Challenge #2: Generate Insights to Solve a Supply Chain Issue in the FMCG domain 
 
-Problem Statement
-
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard](https://www.novypro.com/project/insights-for-supply-chain-issue)
 
 ## Problem statement
-
-Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad, and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
 AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
@@ -59,7 +55,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 
 ## Things that I learned from this Project
 - I Learned, how to use bookmarks and selection for different purposes. (Page navigation buttons in the dashboard were achieved using bookmarks and selection same as a website page navigation.
-- Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/0766ad29adb2c5e898f3f3f3))
+- Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/243763ff6e31ffebb7ad8e70))
 
 ## Some Key Metrics
 - Orders are nothing but unique requests placed by a customer on a given date.
