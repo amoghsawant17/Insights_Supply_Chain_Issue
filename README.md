@@ -14,7 +14,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ### Task List
 You are a data analyst who has been provided with sample data to work on the following tasks.
 - Create the metrics according to the metrics list.
-- Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
+- Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting.
 - Create relevant insights not provided in the metric list/stakeholder meeting.
 
 ## Data Model
